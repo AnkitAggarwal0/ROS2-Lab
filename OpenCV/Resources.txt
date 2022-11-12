@@ -1,1 +1,5 @@
 https://github.com/astha736/SoccerForOmniDriveRobot
+https://roboticsbackend.com/oop-with-ros-in-python/#The_Python_ROS_program_with_OOP
+https://roboticsbackend.com/ros2-python-publisher-example/
+https://roboticsbackend.com/ros2-create-custom-message/#Createbuilduse_your_own_ROS2_custom_service_Srv
+https://stackoverflow.com/questions/19993795/how-would-i-access-variables-from-one-class-to-another
